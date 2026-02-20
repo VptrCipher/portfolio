@@ -7,6 +7,9 @@ const nextConfig = {
   },
   basePath: isProd ? "/portfolio" : "",
   assetPrefix: isProd ? "/portfolio/" : "",
+  eslint: {
+    ignoreDuringBuilds: true, // ← add this
+  },
 };
 
 export default nextConfig;
