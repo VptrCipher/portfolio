@@ -1,0 +1,91 @@
+{
+  "base": "http://127.0.0.1:3031",
+  "at": "2026-11-12T14:36:24.336Z",
+  "renderer": "headless Chromium (software GL where no GPU): frame rates are NOT representative of real hardware",
+  "viewports": [
+    {
+      "w": 320,
+      "h": 640,
+      "horizontalOverflowPx": 0
+    },
+    {
+      "w": 375,
+      "h": 812,
+      "horizontalOverflowPx": 0
+    },
+    {
+      "w": 390,
+      "h": 844,
+      "horizontalOverflowPx": 0
+    },
+    {
+      "w": 768,
+      "h": 1024,
+      "horizontalOverflowPx": 0
+    },
+    {
+      "w": 1024,
+      "h": 768,
+      "horizontalOverflowPx": 0
+    },
+    {
+      "w": 1440,
+      "h": 900,
+      "horizontalOverflowPx": 0
+    },
+    {
+      "w": 1920,
+      "h": 1080,
+      "horizontalOverflowPx": 0
+    },
+    {
+      "w": 2560,
+      "h": 1440,
+      "horizontalOverflowPx": 0
+    },
+    {
+      "w": 3840,
+      "h": 2160,
+      "horizontalOverflowPx": 0
+    }
+  ],
+  "modes": {
+    "intro": {
+      "loaderShownFirstVisit": true,
+      "loaderRemovedAutomatically": true,
+      "loaderVisibleOnReturnVisit": false
+    },
+    "reducedMotion": {
+      "loader": 0,
+      "agentCursors": 0,
+      "youTag": 0,
+      "h1": "NOAH\nJONATHAN J.",
+      "toolkitButtons": 14,
+      "heroLineTransform": "none"
+    },
+    "noWebgl": {
+      "webglAvailable": false,
+      "heroFallbackShown": 1,
+      "canvases": 1,
+      "toolkitButtons": 14,
+      "projectRows": 5
+    },
+    "interaction": {
+      "toolkitSelectionText": "Python is used in SayIt, ShadowSync AI, ImaginePRO.",
+      "rowPreviewShown": 1,
+      "menuOpened": true,
+      "menuClosedByEscape": true
+    },
+    "measuredFps": 19.3,
+    "case-sayit": {
+      "status": 200,
+      "h1": "A QUIETER WAY TO GET WORDS OUT."
+    },
+    "case-shadowsync": {
+      "status": 200,
+      "h1": "MAKE THE INVISIBLE PATH VISIBLE."
+    }
+  },
+  "axe": [],
+  "consoleErrors": []
+}
